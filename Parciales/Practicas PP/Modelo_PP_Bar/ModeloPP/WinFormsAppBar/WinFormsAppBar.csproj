@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\..\..\..\Desktop\Ejercicios\PP_Laboratorio\Bebidas\Entidades.Botellas\Entidades.Botellas.csproj" />
+    <ProjectReference Include="..\..\..\..\..\..\..\Desktop\Ejercicios\PP_Laboratorio\Bebidas\Entidades.Establecimiento\Entidades.Establecimiento.csproj" />
+  </ItemGroup>
+
+</Project>

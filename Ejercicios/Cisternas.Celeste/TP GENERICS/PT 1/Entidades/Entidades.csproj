@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="DepositoDeAutos.cs" />
+    <Compile Remove="DepositoDeCocinas.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net5.0\Entidades.AssemblyInfo.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net5.0\Entidades.deps.json" />
+    <Content Include="obj\Debug\net5.0\Entidades.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Entidades.csproj.nuget.dgspec.json" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net5.0\Entidades.dll" />
+    <None Include="bin\Debug\net5.0\Entidades.pdb" />
+    <None Include="bin\Debug\net5.0\ref\Entidades.dll" />
+    <None Include="obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net5.0\Entidades.assets.cache" />
+    <None Include="obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net5.0\Entidades.dll" />
+    <None Include="obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net5.0\Entidades.pdb" />
+    <None Include="obj\Debug\net5.0\ref\Entidades.dll" />
+    <None Include="obj\Entidades.csproj.nuget.g.props" />
+    <None Include="obj\Entidades.csproj.nuget.g.targets" />
+    <None Include="obj\project.nuget.cache" />
+  </ItemGroup>
+
+</Project>

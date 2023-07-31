@@ -1,0 +1,197 @@
+Una clase generica es: 
+- una clase que solo puede contener metodos genericos. 
+- una clase que tiene uno o mas tipos parametrizados.                                    (correcta) 
+- una clase que no tiene seguridad de tipos. 
+
+Un metodo generico: 
+-solo puede declararse en una clase genérica. 
+-el tipo de retorno No puede ser generico. 
+-Puede tener mas de un tipo generico/parametrizado.                                      (correcta)
+
+Un tipo generico: 
+-puede tener mas de una restriccion.                                                     (correcta)
+-se puede restringir mediante la palabra reservada where.                                (correcta)
+-ningua respuesta.
+
+Las restricciones de los tipos genericos se resuelven en : 
+-tiempo de ejecucion 
+-tiempo de compilacion.                                                                  (correcta) 
+
+los tipos parametrizados...
+-Solo pueden ser nombrados con una letra
+-Pueden llevar qualquier nombre que respete las reglas del lenguaje.                     (correcta)
+
+La restriccion where T: struct indica que: 
+- El argumento debe ser un tipo de referecia. 
+- El argumento debe ser un tipo de valor.                                                (correcta)
+
+La restriccion where T: class indica que: 
+- El argumento debe ser cualquier tipo de referencia(clases, interfaces, delegados, etc) (correcto)
+- El argumento debe ser una clase. 
+- El argumento debe ser un tipo de valor. 
+
+La restriccion where T: new() indica que:
+- El argumento debe ser un tipo de valor. 
+- El argumento debe ser un tipo de referencia. 
+- El tipo del argumento debe tener un constructor público sin parametros.                (correcto)
+- El tipo del argumento debe tener un constructor sin parametro, 
+sin importar el nivel de accesibilidad.  
+
+La restriccion where U: indica que:
+- No existe esa restriccion. 
+- El argumento de tipo T debe ser o derivar de U. 					 (correcto) 
+
+Prueba que todos los elementos que componen el software funcionan juntos correctamente: 
+- Prueba Unitaria. 
+- Prueba Integral. 									 (correcto)
+- Prueba Funcional. 
+
+Prueba que el sistema hace lo que se le pidió(desde el punto de vista del cliente/usuario): 
+- Prueba Unitaria. 
+- Prueba Integral. 
+- Prueba Funcional.                                                                      (correcto)
+
+Prueban individualmente y de forma aislada cada servicio o funcion de un módulo. 
+- Prueba Unitaria.                                                                       (correcto)
+- Prueba Integral. 
+- Prueba Funcional.    
+
+Ordenar de la prueba mas cara(dificil de automatizar) a la mas barata: 
+- Unitarias - Integrales - Funcionales                                                   
+- Integrales - Unitarias - Funcionales
+- Funcionales - Integrales - Unitarias                                                   (correcto)
+
+Se inicializan los objetos y establece el valor de los datos que se pasa al metodo en pruebas: 
+- Fase ASSERT del patron AAA. 
+- Fase ACT del patron AAA. 
+- Fase ARRANGE del patron AAA.                                                           (correcto)
+
+Se comprueba si la accion del codigo en pruebas se comporta de la forma prevista
+- Fase ASSERT del patron AAA.                                                            (correcto) 
+- Fase ACT del patron AAA. 
+- Fase ARRANGE del patron AAA.
+
+Los metodos de extensión....
+- Permiten agregar métodos a clases existentes sin crear una derivada. 		         (correcto)
+- Solo se puede extender a clases selladas. 
+
+Los metodos de extensión....
+- Solo pueden extender clases declaradas en la base class library de .NET
+- Pueden extender cualquier clase							 (correcto)
+
+La clase donde se declara un metodo de extension debe ser...
+- Estatica y accesible							                 (correcto)
+- No estatica
+- Sellada 
+
+UN metodo de extensión....
+- Se declara como método estático y se invoca como instancia.                            (correcto) 
+- Se declara como método de instancia y se invoca como instancia. 
+- Se declara como método estático y se invoca como estático.         
+- Se declara como método de instancia y se invoca como estático. 
+
+La lista de parametros de un método de extension debe contener... 
+- Siempre el primer parametro tendra palabra this seguido del tipo a extender            (correcto)
+- Siempre el primer parametro será el tipo a extender, acompañado de this sólo si se 
+trata de un método de instancia. 
+                                      
+Las excepciones se generan en... 
+- Tiempo de ejecucion 									 (correcta)
+- Tiempo de compilacion                     
+
+Para lanzar una nueva excepción... 
+- Debo encontrarme dentro de un bloque catch. 
+- Debo utilizar la instruccion throw acompañada de la generacion de una instancia 
+de tipo Exception o derivada.                                                            (correcta)
+- Debo encontrarme dentro de un bloque try. 
+- Debo utilizar la instruccion throw; o throw ex; 
+
+Las excepciones pueden ser lanzadas desde... 
+- Objetos declarados en la base class library de .NET					(correcta)
+- El codigo de la aplicacion. 								(correcta)
+- Biblioteca de terceros.								(correcta)
+
+La propiedad InnerException... 
+- La tienen todas las excepciones 							(correcta)
+- La tienen solo aquellas excepciones que tengan un constructor 
+que reciba esa propiedad como argumento
+- La tienen solo aquellas excepciones que tengan la propiedad declarada.
+
+Dentro de este bloque se ubica el código que podría Generar una excepcion
+- Catch
+- Try											(correcta)
+- Finally 
+
+Un bloque try, puede tener mas de un bloque catch?
+- Verdadero										(correcta)
+- Falso
+
+En una estructura con múltiples bloques catch
+- Solo se puede ejecutar un bloque catch. 						(correcta)
+- Se podrían ejecutar uno o más bloques catch.  
+
+Cuando se maneja una excepción, la ejecucion continua desde...
+- El punto donde se lanzó la excepcion							
+- A continuacion del bloque try-catch que la manejó. 					(correcta)
+
+¿Qué es el stack trace?
+- Una coleccion de las excepciones producidas previamente. 
+- Una coleccion de los métodos invocados previo al lanzamiento de la excepcion. 	(correcta)
+
+Cuál de estas expresiones reinica el stack trace?
+- throw. 
+- throw ex. 										(correcta)
+
+El bloque finally...
+- Se ejecuta SÓLO cuando se lanzo una excepcion pero sin importar el tipo. 
+- Se ejecuta SÓLO cuando se capturó una excepcion pero sin importar el tipo. 
+- Se ejecuta SIEMPRE, se haya lanzado o no una excepcion.				(correcta)
+- Se ejecuta SIEMPRE, salvo que haya un return en el bloque try. 
+
+Que es una interfaz?
+- Una forma de herencia multiple
+- Un modelo base para definir una jerarquia de herencia
+- Una especificacion de las operaciones que debe tener una clase sin describir 		(correcto)
+el cómo realizarlas
+
+Que puede especificar una interfaz?
+- Atributos, metodos y propiedades							
+- Metodos y propiedades, pero atributos no. 						(correcto)
+
+Que nivel de visibilidad pueden tener los miembros especificados en una interfaz?
+- Solo public										(correcto)
+- Public, private o protected
+- Solo internal
+- Todos
+
+Una clase puede implementar a una interfaz parcialmente?
+- Si
+- No											(correcto)
+
+Una interfaz NO puede ser genérica
+- Verdadero
+- Falso 										(correcto)
+
+Cuantas interfaces puede implementar una clase(directamente)?
+- Solo 1
+- No hay limite										(correcto)
+- Hasta 2
+
+Si implementamos una interfaz no podemos heredar... 
+- Verdadero
+- Falso											(correcto)
+
+Las interfases pueden "heredar" de otroas interfaces?
+- Si											(correcto)
+- No 
+
+Para implementar una interfaz de forma explicita...
+- Tengo que agregar la palabra reservada "explicit" en la declaracion de la interfaz
+- Tengo que anteponer el nombre de la interfaz al nombre del metodo que la implementa	(correcto)
+- Tengo que marcar el método como privado 
+
+Las interfaces implementadas de forma explicita...
+- Son una forma de hacer a los métodos privados(no se pueden acceder). 
+- Son una forma de evitar la ambigüedad cuando una clase implementa dos interfases 	(correcto)
+que definen una misma operacion
+

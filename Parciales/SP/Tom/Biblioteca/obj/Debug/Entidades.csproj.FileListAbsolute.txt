@@ -1,0 +1,6 @@
+D:\Users\Tomas Dangelo\source\repos\integrador\Biblioteca\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Users\Tomas Dangelo\source\repos\integrador\Biblioteca\bin\Debug\Biblioteca.dll
+D:\Users\Tomas Dangelo\source\repos\integrador\Biblioteca\bin\Debug\Biblioteca.pdb
+D:\Users\Tomas Dangelo\source\repos\integrador\Biblioteca\obj\Debug\Biblioteca.dll
+D:\Users\Tomas Dangelo\source\repos\integrador\Biblioteca\obj\Debug\Biblioteca.pdb
+D:\Users\Tomas Dangelo\source\repos\integrador\Biblioteca\obj\Debug\Entidades.csproj.AssemblyReference.cache

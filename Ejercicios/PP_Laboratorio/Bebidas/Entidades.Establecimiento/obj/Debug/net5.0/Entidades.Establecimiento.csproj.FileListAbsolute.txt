@@ -1,0 +1,14 @@
+D:\Desktop\Ejercicios\PP_Laboratorio\Bebidas\Entidades.Establecimiento\obj\Debug\net5.0\Entidades.Establecimiento.csproj.AssemblyReference.cache
+D:\Desktop\Ejercicios\PP_Laboratorio\Bebidas\Entidades.Establecimiento\obj\Debug\net5.0\Entidades.Establecimiento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Ejercicios\PP_Laboratorio\Bebidas\Entidades.Establecimiento\obj\Debug\net5.0\Entidades.Establecimiento.AssemblyInfoInputs.cache
+D:\Desktop\Ejercicios\PP_Laboratorio\Bebidas\Entidades.Establecimiento\obj\Debug\net5.0\Entidades.Establecimiento.AssemblyInfo.cs
+D:\Desktop\Ejercicios\PP_Laboratorio\Bebidas\Entidades.Establecimiento\obj\Debug\net5.0\Entidades.Establecimiento.csproj.CoreCompileInputs.cache
+D:\Desktop\Ejercicios\PP_Laboratorio\Bebidas\Entidades.Establecimiento\bin\Debug\net5.0\Entidades.Establecimiento.deps.json
+D:\Desktop\Ejercicios\PP_Laboratorio\Bebidas\Entidades.Establecimiento\bin\Debug\net5.0\Entidades.Establecimiento.dll
+D:\Desktop\Ejercicios\PP_Laboratorio\Bebidas\Entidades.Establecimiento\bin\Debug\net5.0\ref\Entidades.Establecimiento.dll
+D:\Desktop\Ejercicios\PP_Laboratorio\Bebidas\Entidades.Establecimiento\bin\Debug\net5.0\Entidades.Establecimiento.pdb
+D:\Desktop\Ejercicios\PP_Laboratorio\Bebidas\Entidades.Establecimiento\bin\Debug\net5.0\Entidades.Botellas.dll
+D:\Desktop\Ejercicios\PP_Laboratorio\Bebidas\Entidades.Establecimiento\bin\Debug\net5.0\Entidades.Botellas.pdb
+D:\Desktop\Ejercicios\PP_Laboratorio\Bebidas\Entidades.Establecimiento\obj\Debug\net5.0\Entidades.Establecimiento.dll
+D:\Desktop\Ejercicios\PP_Laboratorio\Bebidas\Entidades.Establecimiento\obj\Debug\net5.0\ref\Entidades.Establecimiento.dll
+D:\Desktop\Ejercicios\PP_Laboratorio\Bebidas\Entidades.Establecimiento\obj\Debug\net5.0\Entidades.Establecimiento.pdb

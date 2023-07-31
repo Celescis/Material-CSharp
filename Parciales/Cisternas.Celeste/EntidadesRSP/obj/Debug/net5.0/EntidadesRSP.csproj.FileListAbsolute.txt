@@ -1,0 +1,12 @@
+D:\Desktop\Cisternas.Celeste\EntidadesRSP\bin\Debug\net5.0\EntidadesRSP.deps.json
+D:\Desktop\Cisternas.Celeste\EntidadesRSP\bin\Debug\net5.0\EntidadesRSP.dll
+D:\Desktop\Cisternas.Celeste\EntidadesRSP\bin\Debug\net5.0\ref\EntidadesRSP.dll
+D:\Desktop\Cisternas.Celeste\EntidadesRSP\bin\Debug\net5.0\EntidadesRSP.pdb
+D:\Desktop\Cisternas.Celeste\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.csproj.AssemblyReference.cache
+D:\Desktop\Cisternas.Celeste\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Cisternas.Celeste\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.AssemblyInfoInputs.cache
+D:\Desktop\Cisternas.Celeste\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.AssemblyInfo.cs
+D:\Desktop\Cisternas.Celeste\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.csproj.CoreCompileInputs.cache
+D:\Desktop\Cisternas.Celeste\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.dll
+D:\Desktop\Cisternas.Celeste\EntidadesRSP\obj\Debug\net5.0\ref\EntidadesRSP.dll
+D:\Desktop\Cisternas.Celeste\EntidadesRSP\obj\Debug\net5.0\EntidadesRSP.pdb

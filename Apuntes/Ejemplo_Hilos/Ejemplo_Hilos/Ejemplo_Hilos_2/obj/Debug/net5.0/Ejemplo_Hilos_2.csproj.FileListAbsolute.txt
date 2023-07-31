@@ -1,0 +1,16 @@
+C:\Repositories\Ejemplo_Hilos_2\Ejemplo_Hilos_2\bin\Debug\net5.0\Ejemplo_Hilos_2.exe
+C:\Repositories\Ejemplo_Hilos_2\Ejemplo_Hilos_2\bin\Debug\net5.0\Ejemplo_Hilos_2.deps.json
+C:\Repositories\Ejemplo_Hilos_2\Ejemplo_Hilos_2\bin\Debug\net5.0\Ejemplo_Hilos_2.runtimeconfig.json
+C:\Repositories\Ejemplo_Hilos_2\Ejemplo_Hilos_2\bin\Debug\net5.0\Ejemplo_Hilos_2.runtimeconfig.dev.json
+C:\Repositories\Ejemplo_Hilos_2\Ejemplo_Hilos_2\bin\Debug\net5.0\Ejemplo_Hilos_2.dll
+C:\Repositories\Ejemplo_Hilos_2\Ejemplo_Hilos_2\bin\Debug\net5.0\ref\Ejemplo_Hilos_2.dll
+C:\Repositories\Ejemplo_Hilos_2\Ejemplo_Hilos_2\bin\Debug\net5.0\Ejemplo_Hilos_2.pdb
+C:\Repositories\Ejemplo_Hilos_2\Ejemplo_Hilos_2\obj\Debug\net5.0\Ejemplo_Hilos_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\Ejemplo_Hilos_2\Ejemplo_Hilos_2\obj\Debug\net5.0\Ejemplo_Hilos_2.AssemblyInfoInputs.cache
+C:\Repositories\Ejemplo_Hilos_2\Ejemplo_Hilos_2\obj\Debug\net5.0\Ejemplo_Hilos_2.AssemblyInfo.cs
+C:\Repositories\Ejemplo_Hilos_2\Ejemplo_Hilos_2\obj\Debug\net5.0\Ejemplo_Hilos_2.csproj.CoreCompileInputs.cache
+C:\Repositories\Ejemplo_Hilos_2\Ejemplo_Hilos_2\obj\Debug\net5.0\Ejemplo_Hilos_2.dll
+C:\Repositories\Ejemplo_Hilos_2\Ejemplo_Hilos_2\obj\Debug\net5.0\ref\Ejemplo_Hilos_2.dll
+C:\Repositories\Ejemplo_Hilos_2\Ejemplo_Hilos_2\obj\Debug\net5.0\Ejemplo_Hilos_2.pdb
+C:\Repositories\Ejemplo_Hilos_2\Ejemplo_Hilos_2\obj\Debug\net5.0\Ejemplo_Hilos_2.genruntimeconfig.cache
+C:\Repositories\Ejemplo_Hilos_2\Ejemplo_Hilos_2\obj\Debug\net5.0\Ejemplo_Hilos_2.csproj.AssemblyReference.cache

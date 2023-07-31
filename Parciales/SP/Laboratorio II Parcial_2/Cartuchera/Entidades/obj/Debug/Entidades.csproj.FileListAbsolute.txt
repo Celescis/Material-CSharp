@@ -1,0 +1,13 @@
+D:\Usuarios\Lucho\Descargas\Instaladores\Segundo Parcial - Laboratorio II - 2020-20200701T122810Z-001\Segundo Parcial - Laboratorio II - 2020\SP.LabII.2020_alumnos\SP.LabII.2020\Entidades\bin\Debug\Entidades.dll
+D:\Usuarios\Lucho\Descargas\Instaladores\Segundo Parcial - Laboratorio II - 2020-20200701T122810Z-001\Segundo Parcial - Laboratorio II - 2020\SP.LabII.2020_alumnos\SP.LabII.2020\Entidades\bin\Debug\Entidades.pdb
+D:\Usuarios\Lucho\Descargas\Instaladores\Segundo Parcial - Laboratorio II - 2020-20200701T122810Z-001\Segundo Parcial - Laboratorio II - 2020\SP.LabII.2020_alumnos\SP.LabII.2020\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Usuarios\Lucho\Descargas\Instaladores\Segundo Parcial - Laboratorio II - 2020-20200701T122810Z-001\Segundo Parcial - Laboratorio II - 2020\SP.LabII.2020_alumnos\SP.LabII.2020\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Usuarios\Lucho\Descargas\Instaladores\Segundo Parcial - Laboratorio II - 2020-20200701T122810Z-001\Segundo Parcial - Laboratorio II - 2020\SP.LabII.2020_alumnos\SP.LabII.2020\Entidades\obj\Debug\Entidades.dll
+D:\Usuarios\Lucho\Descargas\Instaladores\Segundo Parcial - Laboratorio II - 2020-20200701T122810Z-001\Segundo Parcial - Laboratorio II - 2020\SP.LabII.2020_alumnos\SP.LabII.2020\Entidades\obj\Debug\Entidades.pdb
+D:\Usuarios\Lucho\Descargas\Instaladores\Segundo Parcial - Laboratorio II - 2020-20200701T122810Z-001\Segundo Parcial - Laboratorio II - 2020\SP.LabII.2020_alumnos\SP.LabII.2020\Entidades\bin\Debug\Entidades.dll.config
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\Laboratorio II Parcial_2\Cartuchera\Entidades\bin\Debug\Entidades.dll.config
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\Laboratorio II Parcial_2\Cartuchera\Entidades\bin\Debug\Entidades.dll
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\Laboratorio II Parcial_2\Cartuchera\Entidades\bin\Debug\Entidades.pdb
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\Laboratorio II Parcial_2\Cartuchera\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\Laboratorio II Parcial_2\Cartuchera\Entidades\obj\Debug\Entidades.dll
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\Laboratorio II Parcial_2\Cartuchera\Entidades\obj\Debug\Entidades.pdb

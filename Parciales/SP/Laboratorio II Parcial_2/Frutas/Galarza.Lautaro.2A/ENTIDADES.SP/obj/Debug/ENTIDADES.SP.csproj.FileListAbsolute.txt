@@ -1,0 +1,20 @@
+D:\Galarza.Lautaro.2A\ENTIDADES.SP\bin\Debug\ENTIDADES.SP.dll
+D:\Galarza.Lautaro.2A\ENTIDADES.SP\bin\Debug\ENTIDADES.SP.pdb
+D:\Galarza.Lautaro.2A\ENTIDADES.SP\obj\Debug\ENTIDADES.SP.csproj.CoreCompileInputs.cache
+D:\Galarza.Lautaro.2A\ENTIDADES.SP\obj\Debug\ENTIDADES.SP.dll
+D:\Galarza.Lautaro.2A\ENTIDADES.SP\obj\Debug\ENTIDADES.SP.pdb
+D:\Galarza.Lautaro.2A\ENTIDADES.SP\bin\Debug\ENTIDADES.SP.dll.config
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\Laboratorio II Parcial_2\Frutas\Galarza.Lautaro.2A\ENTIDADES.SP\bin\Debug\ENTIDADES.SP.dll.config
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\Laboratorio II Parcial_2\Frutas\Galarza.Lautaro.2A\ENTIDADES.SP\bin\Debug\ENTIDADES.SP.dll
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\Laboratorio II Parcial_2\Frutas\Galarza.Lautaro.2A\ENTIDADES.SP\bin\Debug\ENTIDADES.SP.pdb
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\Laboratorio II Parcial_2\Frutas\Galarza.Lautaro.2A\ENTIDADES.SP\obj\Debug\ENTIDADES.SP.csproj.AssemblyReference.cache
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\Laboratorio II Parcial_2\Frutas\Galarza.Lautaro.2A\ENTIDADES.SP\obj\Debug\ENTIDADES.SP.csproj.CoreCompileInputs.cache
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\Laboratorio II Parcial_2\Frutas\Galarza.Lautaro.2A\ENTIDADES.SP\obj\Debug\ENTIDADES.SP.dll
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\Laboratorio II Parcial_2\Frutas\Galarza.Lautaro.2A\ENTIDADES.SP\obj\Debug\ENTIDADES.SP.pdb
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\SP\Laboratorio II Parcial_2\Frutas\Galarza.Lautaro.2A\ENTIDADES.SP\bin\Debug\ENTIDADES.SP.dll.config
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\SP\Laboratorio II Parcial_2\Frutas\Galarza.Lautaro.2A\ENTIDADES.SP\bin\Debug\ENTIDADES.SP.dll
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\SP\Laboratorio II Parcial_2\Frutas\Galarza.Lautaro.2A\ENTIDADES.SP\bin\Debug\ENTIDADES.SP.pdb
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\SP\Laboratorio II Parcial_2\Frutas\Galarza.Lautaro.2A\ENTIDADES.SP\obj\Debug\ENTIDADES.SP.csproj.AssemblyReference.cache
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\SP\Laboratorio II Parcial_2\Frutas\Galarza.Lautaro.2A\ENTIDADES.SP\obj\Debug\ENTIDADES.SP.csproj.CoreCompileInputs.cache
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\SP\Laboratorio II Parcial_2\Frutas\Galarza.Lautaro.2A\ENTIDADES.SP\obj\Debug\ENTIDADES.SP.dll
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\SP\Laboratorio II Parcial_2\Frutas\Galarza.Lautaro.2A\ENTIDADES.SP\obj\Debug\ENTIDADES.SP.pdb

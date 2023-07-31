@@ -1,0 +1,38 @@
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS PT 1\Program\bin\Debug\net5.0\Program.exe
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS PT 1\Program\bin\Debug\net5.0\Program.deps.json
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS PT 1\Program\bin\Debug\net5.0\Program.runtimeconfig.json
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS PT 1\Program\bin\Debug\net5.0\Program.runtimeconfig.dev.json
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS PT 1\Program\bin\Debug\net5.0\Program.dll
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS PT 1\Program\bin\Debug\net5.0\ref\Program.dll
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS PT 1\Program\bin\Debug\net5.0\Program.pdb
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS PT 1\Program\bin\Debug\net5.0\Entidades.dll
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS PT 1\Program\bin\Debug\net5.0\Entidades.pdb
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS PT 1\Program\obj\Debug\net5.0\Program.csproj.AssemblyReference.cache
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS PT 1\Program\obj\Debug\net5.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS PT 1\Program\obj\Debug\net5.0\Program.AssemblyInfoInputs.cache
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS PT 1\Program\obj\Debug\net5.0\Program.AssemblyInfo.cs
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS PT 1\Program\obj\Debug\net5.0\Program.csproj.CoreCompileInputs.cache
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS PT 1\Program\obj\Debug\net5.0\Program.dll
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS PT 1\Program\obj\Debug\net5.0\ref\Program.dll
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS PT 1\Program\obj\Debug\net5.0\Program.pdb
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS PT 1\Program\obj\Debug\net5.0\Program.genruntimeconfig.cache
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS PT 1\Program\obj\Debug\net5.0\Program.csproj.CopyComplete
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS\PT 1\Program\bin\Debug\net5.0\Program.exe
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS\PT 1\Program\bin\Debug\net5.0\Program.deps.json
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS\PT 1\Program\bin\Debug\net5.0\Program.runtimeconfig.json
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS\PT 1\Program\bin\Debug\net5.0\Program.runtimeconfig.dev.json
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS\PT 1\Program\bin\Debug\net5.0\Program.dll
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS\PT 1\Program\bin\Debug\net5.0\ref\Program.dll
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS\PT 1\Program\bin\Debug\net5.0\Program.pdb
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS\PT 1\Program\bin\Debug\net5.0\Entidades.dll
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS\PT 1\Program\bin\Debug\net5.0\Entidades.pdb
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS\PT 1\Program\obj\Debug\net5.0\Program.csproj.AssemblyReference.cache
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS\PT 1\Program\obj\Debug\net5.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS\PT 1\Program\obj\Debug\net5.0\Program.AssemblyInfoInputs.cache
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS\PT 1\Program\obj\Debug\net5.0\Program.AssemblyInfo.cs
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS\PT 1\Program\obj\Debug\net5.0\Program.csproj.CoreCompileInputs.cache
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS\PT 1\Program\obj\Debug\net5.0\Program.csproj.CopyComplete
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS\PT 1\Program\obj\Debug\net5.0\Program.dll
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS\PT 1\Program\obj\Debug\net5.0\ref\Program.dll
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS\PT 1\Program\obj\Debug\net5.0\Program.pdb
+D:\Desktop\Ejercicios\Cisternas.Celeste\TP GENERICS\PT 1\Program\obj\Debug\net5.0\Program.genruntimeconfig.cache

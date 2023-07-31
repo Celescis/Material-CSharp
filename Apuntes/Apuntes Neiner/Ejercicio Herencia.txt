@@ -1,0 +1,107 @@
+Biblioteca de Clases
+
+------------------------
+Enumerados               EClasificacion-->(Cuerdas,Vientos,Percusion)
+                         ETipoGuitarra-->(Criolla,Electroacústica,Eléctrica)
+------------------------
+
+-----------------
+clase Instrumento
+-----------------
+
+-----Atr
+(*prot) codigo:int
+(*prot) marca:string
+
+
+-----Ctor
+(+) Instrumento(int,string)  
+(+) Instrumento(int,string,EClasificacion)    (reutilizar) 
+
+-----Prop
+(*prot) Clasificacion: EClasificacion (lectura y escritura)
+
+-----Met
+(+) Mostrar():string -> de instancia
+
+
+-----Sobrecarga == (Instrumento,Instrumento)     (verifica por codigo)
+                != (Instrumento,Instrumento)     (reutilizar)
+
+
+
+
+
+--------------
+clase Guitarra--------> Instrumento
+--------------
+
+-----Atr
+(-) cantidadDeCuerdas:int
+
+-----Ctor
+(+) Guitarra(string,int,EClasificacion,ETipoGuitarra)  
+
+-----Prop
+(+) Tipo: ETipoGuitarra (lectura y escritura).
+
+-----Met
+(+) MostrarGuitarra():string -> de instancia
+
+
+
+--------------
+clase Bateria---------> Instrumento
+--------------
+
+-----Atr
+(-) cuerpos:int
+
+-----Ctor
+(+) Bateria(string,int,EClasificacion,int)  
+
+-----Met
+(+) MostrarBateria():string -> de instancia
+
+
+
+--------------
+clase Trompeta--------> Instrumento
+--------------
+
+-----Atr
+(-) clave:string
+
+-----Ctor
+(+) Trompeta(string,int,EClasificacion,string)  
+
+-----Met
+(+) MostrarTrompeta():string -> de instancia
+
+
+
+-------------------
+clase CasaDeMusica-
+-------------------
+
+-----Atr
+(-) lista:List<Instrumento>
+(-) cantidadMaxima:int
+
+-----Ctor
+(+) CasaDeMusica() -> (inicializa la lista)
+(+) CasaDeMusica(int)  
+
+-----Met
+(+) Mostrar():string -> de instancia           (Muestra todos los instrumentos con sus datos)
+
+
+-----Sobrecarga 
+== (CasaDeMusica,Instrumento)    (verifica si está en la lista)
+!= (CasaDeMusica,Instrumento)    (reutilizar)
++  (CasaDeMusica,Instrumento)    (Agrega instrumento a la lista si no está y si la lista es menor a la cantidad Máxima)
+- (CasaDeMusica, Instrumento)    (recorre la lista y si está, elimina por indice->RemoveAt())
+
+
+ 
+

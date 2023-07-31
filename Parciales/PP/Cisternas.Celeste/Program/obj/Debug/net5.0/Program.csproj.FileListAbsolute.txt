@@ -1,0 +1,5 @@
+D:\Desktop\PP\Cisternas.Celeste.2A\Program\obj\Debug\net5.0\Program.csproj.AssemblyReference.cache
+D:\Desktop\PP\Cisternas.Celeste.2A\Program\obj\Debug\net5.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\PP\Cisternas.Celeste.2A\Program\obj\Debug\net5.0\Program.AssemblyInfoInputs.cache
+D:\Desktop\PP\Cisternas.Celeste.2A\Program\obj\Debug\net5.0\Program.AssemblyInfo.cs
+D:\Desktop\PP\Cisternas.Celeste.2A\Program\obj\Debug\net5.0\Program.csproj.CoreCompileInputs.cache

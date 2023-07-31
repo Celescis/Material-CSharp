@@ -1,0 +1,11 @@
+D:\Desktop\Ejercicios\PP_Laboratorio\Bebidas\Entidades\bin\Debug\net5.0\Entidades.deps.json
+D:\Desktop\Ejercicios\PP_Laboratorio\Bebidas\Entidades\bin\Debug\net5.0\Entidades.dll
+D:\Desktop\Ejercicios\PP_Laboratorio\Bebidas\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+D:\Desktop\Ejercicios\PP_Laboratorio\Bebidas\Entidades\bin\Debug\net5.0\Entidades.pdb
+D:\Desktop\Ejercicios\PP_Laboratorio\Bebidas\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Ejercicios\PP_Laboratorio\Bebidas\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+D:\Desktop\Ejercicios\PP_Laboratorio\Bebidas\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+D:\Desktop\Ejercicios\PP_Laboratorio\Bebidas\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+D:\Desktop\Ejercicios\PP_Laboratorio\Bebidas\Entidades\obj\Debug\net5.0\Entidades.dll
+D:\Desktop\Ejercicios\PP_Laboratorio\Bebidas\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+D:\Desktop\Ejercicios\PP_Laboratorio\Bebidas\Entidades\obj\Debug\net5.0\Entidades.pdb

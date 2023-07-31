@@ -1,0 +1,49 @@
+USE WikiCrafteoDB;
+
+INSERT INTO [WikiCrafteoDB].[dbo].[Inventarios](ID_INVENTARIO,CAPACIDAD)
+VALUES
+(1,20),
+(2,20),
+(3,20),
+(4,20),
+(5,20),
+(6,20);
+
+INSERT INTO [WikiCrafteoDB].[dbo].[Jugadores] (USUARIO, ID_INVENTARIO)
+VALUES
+('celes22',1),
+('UTN',2),
+('Ger0',3),
+('KIRA',4),
+('zayles',5),
+('test',6);
+
+
+INSERT INTO [WikiCrafteoDB].[dbo].[Elementos](ID_INVENTARIO,CANTIDAD,MATERIAL,TIPO,DESCRIPCION)
+VALUES
+(1,2,'Diamante',0,''),
+(1,1,'Diamante',1,'Pico'),
+(2,4,'Madera',1,'Hacha'),
+(3,3,'Madera',0,''),
+(6,2,'Piedra',0,''),
+(5,4,'Diamante',1,'Espada'),
+(5,3,'Piedra',1,'Hacha'),
+(4,5,'Piedra',0,'');
+
+DELETE FROM Inventarios
+DELETE FROM Jugadores
+DBCC CHECKIDENT(Inventarios, RESEED,0)
+DBCC CHECKIDENT(Jugadores, RESEED,0)
+
+SELECT * FROM Jugadores
+SELECT * FROM Inventarios
+
+GO
+CREATE PROCEDURE consulta_ObtenerTodos
+AS
+BEGIN
+SELECT j.ID_JUGADOR, j.USUARIO, j.ID_INVENTARIO AS "ID_INVENTARIO",i.CAPACIDAD,e.CANTIDAD,e.MATERIAL,e.TIPO,e.DESCRIPCION
+FROM [WikiCrafteoDB].[dbo].[Jugadores] j 
+LEFT JOIN [WikiCrafteoDB].[dbo].[Inventarios] i ON j.ID_INVENTARIO = i.ID_INVENTARIO
+INNER JOIN [WikiCrafteoDB].[dbo].[Elementos] e ON i.ID_INVENTARIO = e.ID_INVENTARIO
+END

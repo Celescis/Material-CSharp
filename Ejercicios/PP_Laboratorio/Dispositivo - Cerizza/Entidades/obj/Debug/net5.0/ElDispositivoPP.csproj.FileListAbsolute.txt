@@ -1,0 +1,11 @@
+D:\Desktop\Ejercicios\PP_Laboratorio\Dispositivo - Cerizza\Entidades\bin\Debug\net5.0\ElDispositivoPP.deps.json
+D:\Desktop\Ejercicios\PP_Laboratorio\Dispositivo - Cerizza\Entidades\bin\Debug\net5.0\ElDispositivoPP.dll
+D:\Desktop\Ejercicios\PP_Laboratorio\Dispositivo - Cerizza\Entidades\bin\Debug\net5.0\ref\ElDispositivoPP.dll
+D:\Desktop\Ejercicios\PP_Laboratorio\Dispositivo - Cerizza\Entidades\bin\Debug\net5.0\ElDispositivoPP.pdb
+D:\Desktop\Ejercicios\PP_Laboratorio\Dispositivo - Cerizza\Entidades\obj\Debug\net5.0\ElDispositivoPP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Ejercicios\PP_Laboratorio\Dispositivo - Cerizza\Entidades\obj\Debug\net5.0\ElDispositivoPP.AssemblyInfoInputs.cache
+D:\Desktop\Ejercicios\PP_Laboratorio\Dispositivo - Cerizza\Entidades\obj\Debug\net5.0\ElDispositivoPP.AssemblyInfo.cs
+D:\Desktop\Ejercicios\PP_Laboratorio\Dispositivo - Cerizza\Entidades\obj\Debug\net5.0\ElDispositivoPP.csproj.CoreCompileInputs.cache
+D:\Desktop\Ejercicios\PP_Laboratorio\Dispositivo - Cerizza\Entidades\obj\Debug\net5.0\ElDispositivoPP.dll
+D:\Desktop\Ejercicios\PP_Laboratorio\Dispositivo - Cerizza\Entidades\obj\Debug\net5.0\ref\ElDispositivoPP.dll
+D:\Desktop\Ejercicios\PP_Laboratorio\Dispositivo - Cerizza\Entidades\obj\Debug\net5.0\ElDispositivoPP.pdb

@@ -1,0 +1,10 @@
+D:\Desktop\Ejercicios\Musica\Test\bin\Debug\Test.exe.config
+D:\Desktop\Ejercicios\Musica\Test\bin\Debug\Test.exe
+D:\Desktop\Ejercicios\Musica\Test\bin\Debug\Test.pdb
+D:\Desktop\Ejercicios\Musica\Test\bin\Debug\Entidades.dll
+D:\Desktop\Ejercicios\Musica\Test\bin\Debug\Entidades.pdb
+D:\Desktop\Ejercicios\Musica\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\Desktop\Ejercicios\Musica\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Desktop\Ejercicios\Musica\Test\obj\Debug\Test.csproj.CopyComplete
+D:\Desktop\Ejercicios\Musica\Test\obj\Debug\Test.exe
+D:\Desktop\Ejercicios\Musica\Test\obj\Debug\Test.pdb

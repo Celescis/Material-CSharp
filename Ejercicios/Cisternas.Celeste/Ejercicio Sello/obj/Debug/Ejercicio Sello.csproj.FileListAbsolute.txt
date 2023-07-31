@@ -1,0 +1,7 @@
+D:\Desktop\Ejercicios\Cisternas.Celeste\Ejercicio Sello\bin\Debug\Ejercicio Sello.exe.config
+D:\Desktop\Ejercicios\Cisternas.Celeste\Ejercicio Sello\bin\Debug\Ejercicio Sello.exe
+D:\Desktop\Ejercicios\Cisternas.Celeste\Ejercicio Sello\bin\Debug\Ejercicio Sello.pdb
+D:\Desktop\Ejercicios\Cisternas.Celeste\Ejercicio Sello\obj\Debug\Ejercicio Sello.csproj.AssemblyReference.cache
+D:\Desktop\Ejercicios\Cisternas.Celeste\Ejercicio Sello\obj\Debug\Ejercicio Sello.csproj.CoreCompileInputs.cache
+D:\Desktop\Ejercicios\Cisternas.Celeste\Ejercicio Sello\obj\Debug\Ejercicio Sello.exe
+D:\Desktop\Ejercicios\Cisternas.Celeste\Ejercicio Sello\obj\Debug\Ejercicio Sello.pdb

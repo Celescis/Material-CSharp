@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ElDispositivoPPForm/1.0.0": {
+        "dependencies": {
+          "ElDispositivoPP": "1.0.0"
+        },
+        "runtime": {
+          "ElDispositivoPPForm.dll": {}
+        }
+      },
+      "ElDispositivoPP/1.0.0": {
+        "runtime": {
+          "ElDispositivoPP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ElDispositivoPPForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ElDispositivoPP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

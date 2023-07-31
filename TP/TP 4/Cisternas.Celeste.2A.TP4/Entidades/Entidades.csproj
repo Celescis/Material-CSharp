@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Criatura.cs" />
+    <Compile Remove="eSuperficie.cs" />
+    <Compile Remove="eTipoDaño.cs" />
+    <Compile Remove="Hostil.cs" />
+    <Compile Remove="Mods.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+</Project>

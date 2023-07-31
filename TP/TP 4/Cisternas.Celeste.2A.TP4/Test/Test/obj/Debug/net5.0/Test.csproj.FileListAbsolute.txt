@@ -1,0 +1,122 @@
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP3\Cisternas.Celeste.2A.TP3\Test\Test\bin\Debug\net5.0\Test.exe
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP3\Cisternas.Celeste.2A.TP3\Test\Test\bin\Debug\net5.0\Test.deps.json
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP3\Cisternas.Celeste.2A.TP3\Test\Test\bin\Debug\net5.0\Test.runtimeconfig.json
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP3\Cisternas.Celeste.2A.TP3\Test\Test\bin\Debug\net5.0\Test.runtimeconfig.dev.json
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP3\Cisternas.Celeste.2A.TP3\Test\Test\bin\Debug\net5.0\Test.dll
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP3\Cisternas.Celeste.2A.TP3\Test\Test\bin\Debug\net5.0\ref\Test.dll
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP3\Cisternas.Celeste.2A.TP3\Test\Test\bin\Debug\net5.0\Test.pdb
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP3\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.csproj.AssemblyReference.cache
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP3\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP3\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.AssemblyInfoInputs.cache
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP3\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.AssemblyInfo.cs
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP3\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.csproj.CoreCompileInputs.cache
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP3\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.dll
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP3\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\ref\Test.dll
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP3\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.pdb
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP3\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.genruntimeconfig.cache
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP3\Cisternas.Celeste.2A.TP3\Test\Test\bin\Debug\net5.0\Entidades.dll
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP3\Cisternas.Celeste.2A.TP3\Test\Test\bin\Debug\net5.0\Entidades.pdb
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP3\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.csproj.CopyComplete
+D:\Desktop\Cisternas.Celeste.2A.TP3\Test\Test\bin\Debug\net5.0\Test.exe
+D:\Desktop\Cisternas.Celeste.2A.TP3\Test\Test\bin\Debug\net5.0\Test.deps.json
+D:\Desktop\Cisternas.Celeste.2A.TP3\Test\Test\bin\Debug\net5.0\Test.runtimeconfig.json
+D:\Desktop\Cisternas.Celeste.2A.TP3\Test\Test\bin\Debug\net5.0\Test.runtimeconfig.dev.json
+D:\Desktop\Cisternas.Celeste.2A.TP3\Test\Test\bin\Debug\net5.0\Test.dll
+D:\Desktop\Cisternas.Celeste.2A.TP3\Test\Test\bin\Debug\net5.0\ref\Test.dll
+D:\Desktop\Cisternas.Celeste.2A.TP3\Test\Test\bin\Debug\net5.0\Test.pdb
+D:\Desktop\Cisternas.Celeste.2A.TP3\Test\Test\bin\Debug\net5.0\Entidades.dll
+D:\Desktop\Cisternas.Celeste.2A.TP3\Test\Test\bin\Debug\net5.0\Entidades.pdb
+D:\Desktop\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.csproj.AssemblyReference.cache
+D:\Desktop\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.AssemblyInfoInputs.cache
+D:\Desktop\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.AssemblyInfo.cs
+D:\Desktop\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.csproj.CoreCompileInputs.cache
+D:\Desktop\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.dll
+D:\Desktop\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\ref\Test.dll
+D:\Desktop\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.pdb
+D:\Desktop\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.genruntimeconfig.cache
+D:\Desktop\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.csproj.CopyComplete
+C:\Users\celes\tp_laboratorio_2\TP 3\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.csproj.AssemblyReference.cache
+C:\Users\celes\tp_laboratorio_2\TP 3\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celes\tp_laboratorio_2\TP 3\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.AssemblyInfoInputs.cache
+C:\Users\celes\tp_laboratorio_2\TP 3\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.AssemblyInfo.cs
+C:\Users\celes\tp_laboratorio_2\TP 3\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.csproj.CoreCompileInputs.cache
+C:\Users\celes\tp_laboratorio_2\TP 3\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.dll
+C:\Users\celes\tp_laboratorio_2\TP 3\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\ref\Test.dll
+C:\Users\celes\tp_laboratorio_2\TP 3\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.pdb
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 3 a completar\Cisternas.Celeste.2A.TP3\Test\Test\bin\Debug\net5.0\Test.exe
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 3 a completar\Cisternas.Celeste.2A.TP3\Test\Test\bin\Debug\net5.0\Test.deps.json
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 3 a completar\Cisternas.Celeste.2A.TP3\Test\Test\bin\Debug\net5.0\Test.runtimeconfig.json
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 3 a completar\Cisternas.Celeste.2A.TP3\Test\Test\bin\Debug\net5.0\Test.runtimeconfig.dev.json
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 3 a completar\Cisternas.Celeste.2A.TP3\Test\Test\bin\Debug\net5.0\Test.dll
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 3 a completar\Cisternas.Celeste.2A.TP3\Test\Test\bin\Debug\net5.0\ref\Test.dll
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 3 a completar\Cisternas.Celeste.2A.TP3\Test\Test\bin\Debug\net5.0\Test.pdb
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 3 a completar\Cisternas.Celeste.2A.TP3\Test\Test\bin\Debug\net5.0\Entidades.dll
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 3 a completar\Cisternas.Celeste.2A.TP3\Test\Test\bin\Debug\net5.0\Entidades.pdb
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 3 a completar\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.csproj.AssemblyReference.cache
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 3 a completar\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 3 a completar\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.AssemblyInfoInputs.cache
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 3 a completar\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.AssemblyInfo.cs
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 3 a completar\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.csproj.CoreCompileInputs.cache
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 3 a completar\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.csproj.CopyComplete
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 3 a completar\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.dll
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 3 a completar\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\ref\Test.dll
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 3 a completar\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.pdb
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 3 a completar\Cisternas.Celeste.2A.TP3\Test\Test\obj\Debug\net5.0\Test.genruntimeconfig.cache
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 3 a completar\Cisternas.Celeste.2A.TP3\Test\Test\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 3 a completar\Cisternas.Celeste.2A.TP3\Test\Test\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 3 a completar\Cisternas.Celeste.2A.TP3\Test\Test\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 3 a completar\Cisternas.Celeste.2A.TP3\Test\Test\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 3 a completar\Cisternas.Celeste.2A.TP3\Test\Test\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 3 a completar\Cisternas.Celeste.2A.TP3\Test\Test\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 4\Cisternas.Celeste.2A.TP4\Test\Test\bin\Debug\net5.0\Test.exe
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 4\Cisternas.Celeste.2A.TP4\Test\Test\bin\Debug\net5.0\Test.deps.json
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 4\Cisternas.Celeste.2A.TP4\Test\Test\bin\Debug\net5.0\Test.runtimeconfig.json
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 4\Cisternas.Celeste.2A.TP4\Test\Test\bin\Debug\net5.0\Test.runtimeconfig.dev.json
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 4\Cisternas.Celeste.2A.TP4\Test\Test\bin\Debug\net5.0\Test.dll
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 4\Cisternas.Celeste.2A.TP4\Test\Test\bin\Debug\net5.0\ref\Test.dll
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 4\Cisternas.Celeste.2A.TP4\Test\Test\bin\Debug\net5.0\Test.pdb
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 4\Cisternas.Celeste.2A.TP4\Test\Test\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 4\Cisternas.Celeste.2A.TP4\Test\Test\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 4\Cisternas.Celeste.2A.TP4\Test\Test\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 4\Cisternas.Celeste.2A.TP4\Test\Test\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 4\Cisternas.Celeste.2A.TP4\Test\Test\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 4\Cisternas.Celeste.2A.TP4\Test\Test\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 4\Cisternas.Celeste.2A.TP4\Test\Test\bin\Debug\net5.0\Entidades.dll
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 4\Cisternas.Celeste.2A.TP4\Test\Test\bin\Debug\net5.0\Entidades.pdb
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 4\Cisternas.Celeste.2A.TP4\Test\Test\obj\Debug\net5.0\Test.csproj.AssemblyReference.cache
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 4\Cisternas.Celeste.2A.TP4\Test\Test\obj\Debug\net5.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 4\Cisternas.Celeste.2A.TP4\Test\Test\obj\Debug\net5.0\Test.AssemblyInfoInputs.cache
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 4\Cisternas.Celeste.2A.TP4\Test\Test\obj\Debug\net5.0\Test.AssemblyInfo.cs
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 4\Cisternas.Celeste.2A.TP4\Test\Test\obj\Debug\net5.0\Test.csproj.CoreCompileInputs.cache
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 4\Cisternas.Celeste.2A.TP4\Test\Test\obj\Debug\net5.0\Test.csproj.CopyComplete
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 4\Cisternas.Celeste.2A.TP4\Test\Test\obj\Debug\net5.0\Test.dll
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 4\Cisternas.Celeste.2A.TP4\Test\Test\obj\Debug\net5.0\ref\Test.dll
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 4\Cisternas.Celeste.2A.TP4\Test\Test\obj\Debug\net5.0\Test.pdb
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 4\Cisternas.Celeste.2A.TP4\Test\Test\obj\Debug\net5.0\Test.genruntimeconfig.cache
+D:\Documents\UTN 2do Cuatrimestre\Programacion y Laboratorio\TP\TP 4\Cisternas.Celeste.2A.TP4\Test\Test\bin\Debug\net5.0\XML.xml
+D:\Desktop\Cisternas.Celeste.2A.TP4\Test\Test\bin\Debug\net5.0\Test.exe
+D:\Desktop\Cisternas.Celeste.2A.TP4\Test\Test\bin\Debug\net5.0\Test.deps.json
+D:\Desktop\Cisternas.Celeste.2A.TP4\Test\Test\bin\Debug\net5.0\Test.runtimeconfig.json
+D:\Desktop\Cisternas.Celeste.2A.TP4\Test\Test\bin\Debug\net5.0\Test.runtimeconfig.dev.json
+D:\Desktop\Cisternas.Celeste.2A.TP4\Test\Test\bin\Debug\net5.0\Test.dll
+D:\Desktop\Cisternas.Celeste.2A.TP4\Test\Test\bin\Debug\net5.0\ref\Test.dll
+D:\Desktop\Cisternas.Celeste.2A.TP4\Test\Test\bin\Debug\net5.0\Test.pdb
+D:\Desktop\Cisternas.Celeste.2A.TP4\Test\Test\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Desktop\Cisternas.Celeste.2A.TP4\Test\Test\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Desktop\Cisternas.Celeste.2A.TP4\Test\Test\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Desktop\Cisternas.Celeste.2A.TP4\Test\Test\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Desktop\Cisternas.Celeste.2A.TP4\Test\Test\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Desktop\Cisternas.Celeste.2A.TP4\Test\Test\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Desktop\Cisternas.Celeste.2A.TP4\Test\Test\bin\Debug\net5.0\Entidades.dll
+D:\Desktop\Cisternas.Celeste.2A.TP4\Test\Test\bin\Debug\net5.0\Entidades.pdb
+D:\Desktop\Cisternas.Celeste.2A.TP4\Test\Test\obj\Debug\net5.0\Test.csproj.AssemblyReference.cache
+D:\Desktop\Cisternas.Celeste.2A.TP4\Test\Test\obj\Debug\net5.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Cisternas.Celeste.2A.TP4\Test\Test\obj\Debug\net5.0\Test.AssemblyInfoInputs.cache
+D:\Desktop\Cisternas.Celeste.2A.TP4\Test\Test\obj\Debug\net5.0\Test.AssemblyInfo.cs
+D:\Desktop\Cisternas.Celeste.2A.TP4\Test\Test\obj\Debug\net5.0\Test.csproj.CoreCompileInputs.cache
+D:\Desktop\Cisternas.Celeste.2A.TP4\Test\Test\obj\Debug\net5.0\Test.csproj.CopyComplete
+D:\Desktop\Cisternas.Celeste.2A.TP4\Test\Test\obj\Debug\net5.0\Test.dll
+D:\Desktop\Cisternas.Celeste.2A.TP4\Test\Test\obj\Debug\net5.0\ref\Test.dll
+D:\Desktop\Cisternas.Celeste.2A.TP4\Test\Test\obj\Debug\net5.0\Test.pdb
+D:\Desktop\Cisternas.Celeste.2A.TP4\Test\Test\obj\Debug\net5.0\Test.genruntimeconfig.cache

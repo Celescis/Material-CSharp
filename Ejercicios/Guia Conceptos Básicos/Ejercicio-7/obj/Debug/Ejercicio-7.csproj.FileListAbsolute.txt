@@ -1,0 +1,7 @@
+D:\Desktop\Ejercicios\Guia Conceptos Básicos\Ejercicio-7\bin\Debug\Ejercicio-7.exe.config
+D:\Desktop\Ejercicios\Guia Conceptos Básicos\Ejercicio-7\bin\Debug\Ejercicio-7.exe
+D:\Desktop\Ejercicios\Guia Conceptos Básicos\Ejercicio-7\bin\Debug\Ejercicio-7.pdb
+D:\Desktop\Ejercicios\Guia Conceptos Básicos\Ejercicio-7\obj\Debug\Ejercicio-7.csproj.AssemblyReference.cache
+D:\Desktop\Ejercicios\Guia Conceptos Básicos\Ejercicio-7\obj\Debug\Ejercicio-7.csproj.CoreCompileInputs.cache
+D:\Desktop\Ejercicios\Guia Conceptos Básicos\Ejercicio-7\obj\Debug\Ejercicio-7.exe
+D:\Desktop\Ejercicios\Guia Conceptos Básicos\Ejercicio-7\obj\Debug\Ejercicio-7.pdb

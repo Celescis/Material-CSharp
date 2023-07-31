@@ -1,0 +1,7 @@
+Se crea la instancia del formulario... en el CONSTRUCTOR
+El formulario está en memoria, pero invisible... en el evento LOAD
+El formulario recibe el foco... en el evento ACTIVATED
+Se 'pinta' el formulario y sus controles... en el evento PAINT
+Sale con DISPOSE...
+Permite cancelar el cierre... en el evento FORMCLOSING
+El formulario se cerrará... en el evento FORMCLOSED

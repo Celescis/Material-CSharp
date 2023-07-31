@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CaNE1g+8boK5myQNnIxyPdKbUPm+HRSANDl/3xsICpscRICPANQiWLphX3f6YjzEYdXwKBkOd4U9x5rc+RycyA==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\Programacion C#\\Programacion y Laboratorio\\PP\\Cisternas.Celeste\\Entidades\\Entidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\celes\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\celes\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\celes\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
